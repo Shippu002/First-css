@@ -1,0 +1,26 @@
+/* css ruleset */
+h1 {
+  background-color: red;
+  padding: 2rem;
+  border-radius: 10px;
+}
+ol {
+  background-color: aqua;
+  color: grey;
+}
+ul {
+  background-color: black;
+  color: aliceblue;
+  list-style: none;
+  padding: 2rem;
+}
+p {
+  background-color: brown;
+  color: aqua;
+  margin: 2rem 5rem;
+  padding: 2rem 5rem;
+  border-radius: 32px;
+  font-size: 2rem;
+  font-weight: 800;
+  opacity: .5;
+}
